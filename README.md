@@ -27,9 +27,7 @@ Utilized macros in Excel and create two macros using same spreadsheet that was m
 * Task 4: Data Visualization in Excel
   
 **Created a simple dashboard using the account sales dataset**
-
-[Account Sales Data for analysis Task 4 Dashboard.pdf](https://github.com/user-attachments/files/16089110/Account.Sales.Data.for.analysis.Task.4.Dashboard.pdf)
-
+![image](https://github.com/RounakPyne/JP-Morgan-Chase-Virtual-Internship/assets/100945704/61c0c71b-0d69-4109-b5b4-6e6810d08563)
 
 Created macros to assist with disaggregating data by multiple years
 
