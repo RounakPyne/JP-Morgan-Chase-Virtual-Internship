@@ -28,6 +28,9 @@ Utilized macros in Excel and create two macros using same spreadsheet that was m
   
 **Created a simple dashboard using the account sales dataset**
 
+[Account Sales Data for analysis Task 4 Dashboard.pdf](https://github.com/user-attachments/files/16089110/Account.Sales.Data.for.analysis.Task.4.Dashboard.pdf)
+
+
 Created macros to assist with disaggregating data by multiple years
 
 Utlized pivot tables and charts to create dashboard.
